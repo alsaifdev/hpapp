@@ -2,7 +2,7 @@
   "name": "HP HILFULFUZUL",
   "short_name": "HILFULFUZUL",
   "start_url": ".",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/alsaifdev/hpapp/main/app.png",

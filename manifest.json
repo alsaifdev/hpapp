@@ -1,19 +1,19 @@
 {
-  "name": "HP HILFULFUZUL",
-  "short_name": "HILFULFUZUL",
+  "name": "SAIF KHAN",
+  "short_name": "SAIF KHAN",
   "start_url": ".",
   "display": "standalone",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/alsaifdev/hpapp/main/app.png",
+      "src": "https://raw.githubusercontent.com/alsaifdev/hpapp/main/s-logo.png",
       "type": "image/png",
       "sizes": "180x180"
     },
     {
-      "src": "https://raw.githubusercontent.com/alsaifdev/hpapp/main/app.png",
+      "src": "https://raw.githubusercontent.com/alsaifdev/hpapp/main/s-logo.png",
       "type": "image/png",
       "sizes": "310x310"
     }
   ],
-  "background_color": "#3367D6"
+  "background_color": "#ffffff"
 }
